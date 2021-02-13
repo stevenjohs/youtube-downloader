@@ -6,6 +6,9 @@ requiredment :
 
 step :
 1. Download repo nya
-2. Aktifkan live server nya terlebih dahulu
-3. Run file server.js nya dengan mengetik "node server.js" di cli (command prompt)
-4. Website sudah bisa dipakai :3
+2. Ketik ini di terminal :
+   - 'npm init -y'
+   - 'npm install express ytdl-core cors'
+3. Aktifkan live server
+4. Run file server.js nya dengan mengetik "node server.js" di cli (terminal)
+5. Website sudah bisa dipakai :3
