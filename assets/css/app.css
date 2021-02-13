@@ -1,0 +1,60 @@
+@import 'fonts.css';
+@import 'variables.css';
+@import 'reboots.css';
+@import 'utilities.css';
+
+.desc {
+    font-size: .7rem;
+    color: rgb(132, 132, 132);
+    margin-bottom: 10px;
+}
+
+.form-group {
+    max-width: 800px;
+    background-color: rgb(242, 242, 242);
+    padding: 3rem 2rem;
+    border-radius: 5px;
+}
+
+.input {
+    border: none;
+    outline: none;
+    padding: 1rem;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-family: Poppins;
+    width: 100%;
+}
+
+.btn {
+    padding: 1rem 3rem;
+    background-color: var(--primaryColor);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: Poppins;
+    border-radius: 5px;
+    font-size: .95rem;
+    width: 100%;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: var(--primaryColorHover);
+}
+
+.btn:active {
+    background-color: var(--primaryColor);
+}
+
+@media (min-width: 576px) {
+}
+  
+@media (min-width: 768px) {
+}
+  
+@media (min-width: 992px) {
+}
+  
+@media (min-width: 1200px) {
+}

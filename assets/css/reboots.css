@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-family: Poppins;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    text-align: center;
+    margin: auto;
+}
+
+@media (min-width: 576px) {
+}
+  
+@media (min-width: 768px) {
+}
+  
+@media (min-width: 992px) {
+}
+  
+@media (min-width: 1200px) {
+}
